@@ -2,7 +2,7 @@
 
 my $usage=<<EOF;
 ----------------------------------------------
-I hold R's hand to draw the synteny map between chromosomes, improved from synima.pl
+I hold R's hand to draw the synteny map between chromosomes, inspired by synima.pl
 
 Usage: $0 <karyotype.txt> <links.txt> (options)
 
